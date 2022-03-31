@@ -4,9 +4,6 @@
     
     
 }
-body{
-    background-color:black;
-}
 
 #display{
     text-align: right;
@@ -38,7 +35,7 @@ body{
     font-size: 25px;
     cursor: pointer;
     font-weight: bold;
-    color: white;
+    
     
 }
 
